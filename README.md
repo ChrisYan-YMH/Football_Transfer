@@ -2,9 +2,9 @@
 <ol>
   <li>Google BigQuery</li>
   <li>Python Pandas</li>
-  <li>Python Visualization, matplotlib</li>
+  <li>Python Visualization, matplotlib & seaborn</li>
 </ol><br>
-The dataset has been stored in Google BigQuery project pyquery, and Google API in nPython will be used for connecting to the cloud environment and call the API for query. Finally, the dataset will integreted and some visualizations will be done in Python.
+The dataset has been stored in Google BigQuery project pyquery, and Google API in nPython will be used for connecting to the cloud environment and call the API for query (FootballTransfer.ipynb). Finally, the dataset will integreted and some visualizations will be done in Python (TopScorer_Viz.ipynb).
 <br><br>
 
 ## Background
