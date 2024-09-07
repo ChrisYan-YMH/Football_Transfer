@@ -9,7 +9,7 @@ The dataset has been stored in Google BigQuery project pyquery, and Google API i
 
 ## Background
 ![image](https://github.com/user-attachments/assets/9947a546-6274-4501-b50d-21bd00876d24) <br>
-From the above graph, it is obvious that Chelsea faced a large dropback back in 22/23 Season since the handover to new owner. Regardless of the factor outside the pitch, it is easy to observe that the major reason of the dropback is poor performance in goal scoring. In 22/23 season, Chelsea were having much lower goals and net goals compared to the other Big Six team in PL. Thus, scouting an efficient finisher is the first priority for Chelsea to back in the old glory.
+From the above graph, it is obvious that Chelsea faced a large dropback back in 22/23 Season since the handover to new owner. Regardless of the factor outside the pitch, it is easy to observe that the major reason of the dropback is poor performance in goal scoring, the continous absence of certain players due to injury also plays a big role here. In 22/23 season, Chelsea were having much lower goals and net goals compared to the other Big Six team in PL. Thus, scouting an efficient finisher, also with good health record, is the first priority for Chelsea to back in the old glory.
 <br><br>
 
 ## Project Aim
@@ -34,7 +34,8 @@ Then, Assist Per Game and Goal Per Game will be calculated as the metrics used f
 
 ## Result
 ### Performance
-![image](https://github.com/user-attachments/assets/1a71a4bb-e89d-45bc-87b6-61b0cd10bbd0)
+![image](https://github.com/user-attachments/assets/1a71a4bb-e89d-45bc-87b6-61b0cd10bbd0) <br>
+In term of goal per game and assist per game, only player whose goal per game is higher than the median will be selected, here is the list of player: <br>
 | Player                | Goal Per Game  | Assist Per Game |
 | --------------------- |--------------- | ----------------|
 | Randal Kolo Muani     | 0.569620       | 0.421024        |
@@ -45,10 +46,27 @@ Then, Assist Per Game and Goal Per Game will be calculated as the metrics used f
 | Gonçalo Ramos	        | 0.726240       | 0.322773        |
 | Lautaro Martínez      | 0.611948       | 0.240408        |
 
-## Playtime
-![image](https://github.com/user-attachments/assets/a2102ea0-9f2e-4bba-a243-c1c57fd4b89e)
-![image](https://github.com/user-attachments/assets/f4a6ebbe-31d9-4950-bce8-43ddb0dbcf99)
 
-### Finance
-![image](https://github.com/user-attachments/assets/c6f2722e-80a2-4e31-a5c9-139d5d19a2fd)
+## Playtime & Finance
+![image](https://github.com/user-attachments/assets/0c6bed8b-701a-4cfe-a7c5-739ea31b8e8f) <br>
+Christopher Nkunku had a quit bad attendtance rate in his club career, only around 60% which can be considered a great risk with his price tag ($80M) depsite his excellent performance on the pitch. <br><br>
+Lautaro Martínez can be a good choice. However, with such price tag, this purchase can be risky considering the attendance rate and its assist per game. <br>
+The Final List of Player: <br>
+|Rank | Player                | Goal Per Game  | Assist Per Game| Market Value        | Attendance Rate  | Age |
+| --- | --------------------- |--------------- | ----------------| ------------------ | ---------------- | --- |
+| 1   | Randal Kolo Muani     | 0.569620       | 0.421024        | 80000000.0         | 0.865033         | 24  |
+| 2   | Marcus Thuram	        | 0.533729       | 0.233506        | 32000000.0         | 0.822876         | 25  |
+| 3   | Niclas Füllkrug	      | 0.535515       | 0.200818        | 13000000.0         | 0.810131         | 29  |
+| 4   | Amine Gouiri          | 0.512563       | 0.211055        | 35000000.0         | 0.901634         | 21  |
+| 5   | Gonçalo Ramos	        | 0.726240       | 0.322773        | 50000000.0         | 0.753595         | 22  |
+
+### Conclusioin & Action Plan
+| Plan | Main Player       | Subsitute Player            | Expenditure  |
+| -----| ----------------- | --------------------------- | ------------ |
+| A    | Randal Kolo Muani | Amine Gouiri/ Gonçalo Ramos | 115M to 130M |
+| B    | Marcus Thuram     | Amine Gouiri/ Gonçalo Ramos | 67M to 82M   |
+| C    | Niclas Füllkrug   | Amine Gouiri/ Gonçalo Ramos | 48M to 63M   | 
+
+Randal Kolo Muani will be my first choice with decent goal, assist per game and attendance rate. Marcus Thuram can be his back-up if Randal Kolo Muani deal collapse.<br>
+For the players at rank 3 or below, they can be the second purchase and serve as a substitue of either Randal Kolo Muani or Marcus Thuram during the season to grow to be better for future main player or resale. <br>
 
