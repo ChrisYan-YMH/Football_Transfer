@@ -9,7 +9,7 @@ The dataset has been stored in Google BigQuery project pyquery, and Google API i
 <br><br>
 
 ## Background
-![image](https://github.com/user-attachments/assets/d17db411-a602-411d-a314-4e5dba583517) <br>
+![image](https://github.com/user-attachments/assets/91070d9c-b689-410f-bfe8-83538ea07f6a) <br>
 From the above graph, it is obvious that Chelsea faced a large dropback back in 22/23 Season since the handover to new owner. Regardless of the factor outside the pitch, it is easy to observe that the major reason of the dropback is poor performance in goal scoring, the continous absence of certain players due to injury also plays a big role here. In 22/23 season, Chelsea were having much lower goals and net goals compared to the other Big Six team in PL. Thus, scouting an efficient finisher, also with good health record, is the first priority for Chelsea to back in the competition.
 <br><br>
 
