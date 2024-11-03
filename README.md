@@ -1,8 +1,9 @@
 ## Skill involved:
 <ol>
-  <li>Google BigQuery</li>
+  <li>Google BigQuery (SQL)</li>
   <li>Python Pandas</li>
   <li>Python Visualization, matplotlib & seaborn</li>
+  <li>Python Google API</li>
 </ol><br>
 
 The dataset has been stored in Google BigQuery project pyquery, and Google API in nPython will be used for connecting to the cloud environment and call the API for query _**(FootballTransfer.ipynb)**_. Finally, the dataset will integreted and some visualizations will be done in Python _**(TopScorer_Viz.ipynb)**_.
